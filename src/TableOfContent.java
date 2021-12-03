@@ -1,19 +1,18 @@
-public class Table extends Element{
+public class TableOfContent extends Element{
     private String title;
 
-
-    public Table(String title){
+    public TableOfContent(String title){
         this.title=title;
     }
 
     @Override
     public void print() {
-        System.out.println("Table with title: "+this.title);
+        System.out.println("Table if content: "+this.title);
     }
 
     @Override
     public void add(Element e) {
-        System.out.println("?");
+     System.out.println("?");
     }
 
     @Override
@@ -22,8 +21,7 @@ public class Table extends Element{
     }
 
     @Override
-    public Element get(Integer index) {
+    public Element get(Integer e) {
         return null;
     }
-
 }

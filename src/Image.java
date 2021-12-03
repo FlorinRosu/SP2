@@ -1,4 +1,4 @@
-public class Image implements Element{
+public class Image extends Element{
     private String imagName;
 
 
@@ -14,4 +14,21 @@ public class Image implements Element{
     public void print() {
         System.out.println("Image with name: "+this.getImagName());
     }
+
+    @Override
+    public void add(Element e) {
+        System.out.println("?");
+    }
+
+    @Override
+    public void remove(Element e) {
+        System.out.println("?");
+    }
+
+    @Override
+    public Element get(Integer index) {
+        return null;
+    }
+
+
 }
