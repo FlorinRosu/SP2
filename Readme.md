@@ -13,7 +13,8 @@ https://github.com/andreibugariu/SP2/tree/7c84c168c28e68204394f17e73bcc96fe4a3c8
 all good (with delay)
 
 # Feedback lab6:
+https://github.com/andreibugariu/SP2/tree/1a8e5665474ab20edb10ea2272755cc3f283d663
 
-no content
+- for TableOfContent make a list of strings containing section's titles.
 
-# Proposed grade: 7
+# Proposed grade: 8
